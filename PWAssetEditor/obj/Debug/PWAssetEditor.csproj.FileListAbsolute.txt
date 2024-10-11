@@ -1,0 +1,17 @@
+G:\Programming\CSharp Projects\PWAssetEditor\PWAssetEditor\bin\Debug\PWAssetEditor.exe.config
+G:\Programming\CSharp Projects\PWAssetEditor\PWAssetEditor\bin\Debug\PWAssetEditor.exe
+G:\Programming\CSharp Projects\PWAssetEditor\PWAssetEditor\bin\Debug\PWAssetEditor.pdb
+G:\Programming\CSharp Projects\PWAssetEditor\PWAssetEditor\obj\Debug\PWAssetEditor.csproj.AssemblyReference.cache
+G:\Programming\CSharp Projects\PWAssetEditor\PWAssetEditor\obj\Debug\PWAssetEditor.Properties.Resources.resources
+G:\Programming\CSharp Projects\PWAssetEditor\PWAssetEditor\obj\Debug\PWAssetEditor.csproj.GenerateResource.cache
+G:\Programming\CSharp Projects\PWAssetEditor\PWAssetEditor\obj\Debug\PWAssetEditor.csproj.CoreCompileInputs.cache
+G:\Programming\CSharp Projects\PWAssetEditor\PWAssetEditor\obj\Debug\PWAssetEditor.exe
+G:\Programming\CSharp Projects\PWAssetEditor\PWAssetEditor\obj\Debug\PWAssetEditor.pdb
+G:\Programming\CSharp Projects\PWAssetEditor\PWAssetEditor\bin\Debug\Newtonsoft.Json.dll
+G:\Programming\CSharp Projects\PWAssetEditor\PWAssetEditor\bin\Debug\Newtonsoft.Json.xml
+G:\Programming\CSharp Projects\PWAssetEditor\PWAssetEditor\obj\Debug\PWAssetEditor.AssetFolderPicker.resources
+G:\Programming\CSharp Projects\PWAssetEditor\PWAssetEditor\obj\Debug\PWAssetEditor.AssetEditor.resources
+G:\Programming\CSharp Projects\PWAssetEditor\PWAssetEditor\obj\Debug\PWAssetEditor.AuthorChooser.resources
+G:\Programming\CSharp Projects\PWAssetEditor\PWAssetEditor\obj\Debug\PWAssetEditor.SingleAssetCreator.resources
+G:\Programming\CSharp Projects\PWAssetEditor\PWAssetEditor\obj\Debug\PWAssetEditor.SaveDisplay.resources
+G:\Programming\CSharp Projects\PWAssetEditor\PWAssetEditor\obj\Debug\PWAssetE.B58D76A0.Up2Date
